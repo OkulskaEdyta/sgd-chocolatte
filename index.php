@@ -1,8 +1,8 @@
 <?php
 
-$today = date(`d/m/Y H:i:s`);
+$today = date('d/m/Y H:i:s');
 
-$title = `Chocolatté (`.$today.`)`;
+$title = 'Chocolatté ('.$today.')';
 
 ?><!doctype html>
 <html lang="en">
