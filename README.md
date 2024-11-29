@@ -1,1 +1,1 @@
-# sgd-chocolatte
+# chocolatte
